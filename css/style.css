@@ -1,0 +1,168 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Rubik', sans-serif;
+}
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+.row {
+  display: flex;
+  flex-flow: row wrap;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+.logo{
+  margin-right: 23px;
+  padding: 37px 0 0 0;
+}
+.currency-info{
+  justify-content: center;
+  margin-right: 220px;
+  padding-top: 24px;
+}
+.currency-info-list{
+  padding: 0;
+}
+.currency-list-item{
+  margin-right: 20px;
+  font-size: 16px;
+  line-height: 19px;
+  color: #7A7A7A;
+}
+.nav-list-item{
+  padding: 0;
+  margin-right: 22px;
+}
+.nav-list{
+  padding: 0;
+}
+.padf{
+  padding-top: 20px;
+}
+.s-l-l-list-item{
+  
+  justify-content: center;
+}
+.langs{
+  border-radius: 18px;
+}
+.slllil-span{
+  margin-bottom: 5px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #535353;
+}
+.s-l-l-l-i-link-but{
+  margin-top: 13px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 11px 12px 8px 17px;
+  justify-content: center;
+  background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+}
+.srch{
+  margin-right: 20px;
+}
+.lng{
+  margin-right: 30px;
+}
+.currency-list-item span{
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  color: #285193;
+}
+.n-l-i-link{
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 23px;
+  color: #515151;
+}
+.virus-info{
+  margin: 0 auto;
+  width: 1140px;
+  height: 133px;
+  background: #F6F6F9;
+  border-radius: 5px;
+}
+.v-i-l-item-title{
+  margin-left: 20px;
+  height: 74px;
+  border-right: 2px solid #EB5569;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 30px 0 29px 25px;
+}
+.virus-info-list{
+  padding: 0;
+}
+.virus-info-title{
+  width: 232px;
+  height: 50px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  margin: 12px 50px 12px 15px;
+}
+.virus-info-list-item-1{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 37px 0px 40px 40px;
+  width: 260px;
+  border-right: 2px solid #F4CCD1;
+} 
+.vili-title{
+  font-size: 18px;
+  line-height: 21px;
+  color: #DB0000;
+  margin: 5px 0;
+}
+.vili-span{
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 30px;
+  color: #000000;
+}
+.vili-des{
+  margin-left: 17px;
+}
+.virus-info-list-item-2{
+  display: flex;
+  flex-wrap: wrap;
+  width: 220px;
+  margin: 37px 0px 40px 40px;
+  border-right: 2px solid #F4CCD1;
+}
+.vili-title-2{
+  margin: 5px 0;
+  font-size: 18px;
+  line-height: 21px;
+  color: #05B135;
+}
+
+.virus-info-list-item-3{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 37px 0px 40px 40px;
+}
+.vili-title-3{
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+  margin : 5px 0;
+}
